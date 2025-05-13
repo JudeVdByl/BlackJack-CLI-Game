@@ -6,8 +6,8 @@ A simple command line Blackjack game written in Python. Great for learning how t
 
 ## Demo
 
-![blackjack\_cli\_demo](![image](https://github.com/user-attachments/assets/d20b85b9-dc7e-4a72-9c72-6d80fddc2180)
-)
+![image](https://github.com/user-attachments/assets/3671c887-402d-4e1d-80bc-b03d6923d738)
+
 
 ---
 
