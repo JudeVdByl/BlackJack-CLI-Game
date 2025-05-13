@@ -53,15 +53,6 @@ Requires **Python 3.8+**. No external dependencies.
 
 Read through the source code in `blackjack.py` and see the inline docstrings for more details.
 
----
-
-## Roadmap
-
-* [ ] Refactor into functions/classes to improve readability
-* [ ] Add unit tests
-* [ ] Replace `input()` with `argparse` flags for automated testing
-* [ ] Add colors to terminal output
-* [ ] Build a GUI version with Tkinter or PyGame
 
 ---
 
