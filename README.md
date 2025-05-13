@@ -23,7 +23,7 @@ A simple command line Blackjack game written in Python. Great for learning how t
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your‑user>/blackjack-cli.git
+git clone https://github.com/JudeVdByl/blackjack-cli.git
 cd blackjack-cli
 
 # (Optional) create a virtual environment
