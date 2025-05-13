@@ -6,7 +6,8 @@ A simple command line Blackjack game written in Python. Great for learning how t
 
 ## Demo
 
-![blackjack\_cli\_demo](demo.gif)
+![blackjack\_cli\_demo](![image](https://github.com/user-attachments/assets/d20b85b9-dc7e-4a72-9c72-6d80fddc2180)
+)
 
 ---
 
@@ -22,16 +23,22 @@ A simple command line Blackjack game written in Python. Great for learning how t
 ## Quick start
 
 ```bash
-# Clone the repo
-git clone https://github.com/JudeVdByl/blackjack-cli.git
+# 1. Clone the repository
+git clone https://github.com/JudeVdByL/blackjack-cli.git
 cd blackjack-cli
 
-# (Optional) create a virtual environment
+# 2. (Optional) Create a virtual environment
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
 
-# Run the game
-python blackjack.py
+# 3. Activate the virtual environment (Windows)
+.\venv\Scripts\Activate
+
+# 4. Navigate into the Blackjack folder
+cd Blackjack
+
+# 5. Run the game
+python main.py
+
 ```
 
 Requires **Python 3.8+**. No external dependencies.
