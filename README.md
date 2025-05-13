@@ -23,15 +23,15 @@ A simple command line Blackjack game written in Python. Great for learning how t
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/<your‑user>/blackjack-cli.git
-$ cd blackjack-cli
+git clone https://github.com/<your‑user>/blackjack-cli.git
+cd blackjack-cli
 
 # (Optional) create a virtual environment
-$ python -m venv venv
-$ source venv/bin/activate  # Windows: venv\Scripts\activate
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Run the game
-$ python blackjack.py
+python blackjack.py
 ```
 
 Requires **Python 3.8+**. No external dependencies.
