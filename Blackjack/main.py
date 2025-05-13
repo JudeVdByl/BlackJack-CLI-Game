@@ -30,13 +30,14 @@ while (user_total <= 21 or dealer_total <= 21) and continue_game == 'y':
         dealer_total = 0
         user_hand = []
         dealer_hand = []
-
+        print("\n" * 25)
         print(art.logo)
 
-        user_hand.append(card_deal(user_total))
-        user_hand.append(card_deal(user_total))
-        user_total = sum(user_hand)
+        for _ in range(2):
+            user_hand.append(card_deal(user_total))
         dealer_hand.append(card_deal(dealer_total))
+        user_total = sum(user_hand)
+
 
         print(f"Your cards: {user_hand}, current score: {user_total}")
         print(f"Dealer's fist card: {dealer_hand}")
