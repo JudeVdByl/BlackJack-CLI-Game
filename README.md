@@ -12,7 +12,7 @@ $$$$$$$  |$$ |\$$$$$$$ |\$$$$$$$\ $$ | \$$\ \$$$$$$  |\$$$$$$$ |\$$$$$$$\ $$ | \
                                                                                     
 ```
 
-# Blackjack CLI Game
+# BlackJack CLI Game
 
 A simple command line Blackjack game written in Python. Great for learning how to work with lists, control flow, and basic game logic.
 
